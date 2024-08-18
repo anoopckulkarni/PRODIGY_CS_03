@@ -1,7 +1,3 @@
-Here’s a README file for your Password Strength Assessment Tool:
-
----
-
 # Password Strength Assessment Tool
 
 By Anoop C Kulkarni
